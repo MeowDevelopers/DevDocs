@@ -25,11 +25,11 @@
 <br>   
 
 ### Spring
-#### 동영상  
+#### 🎬 동영상  
 * [Presenting TDD - Mockist - 백명석님](https://www.youtube.com/watch?v=ly-TmUuIXyw)
 * [[우아한테크세미나] 200123 우아한모노리스 by 박용권님](https://www.youtube.com/watch?v=SrQeIz3gXZg)
 
-#### 이론
+#### 📖 이론
 * [JWT의 Refresh Token과 Access Token은 어디에 저장해야 할까? - Heeto님](https://blogeon.tistory.com/m/entry/JWT%EC%9D%98-Refresh-Token%EA%B3%BC-Access-Token%EC%9D%80-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 * [Refresh Token과 Sliding Sessions를 활용한 JWT의 보안 전략 - Reid님](https://blog.ull.im/engineering/2019/02/07/jwt-strategy.html)
 * [Spring Boot에서 AWS 파라미터 스토어로 private 설정값 사용하기 - 향로님](https://jojoldu.tistory.com/509)
@@ -49,11 +49,11 @@
 <br>  
 
 ### Database
-#### 동영상  
+#### 🎬 동영상  
 * [DBCP (DB connection pool)의 개념 - 쉬운코드님 ](https://www.youtube.com/watch?v=zowzVqx3MQ4&t=877s)  
 * [stored procedure를 백엔드 실무에서 쓰기에 조심스러운 이유 - 쉬운코드님](https://www.youtube.com/watch?v=SOLm-GXFzG8)
 
-#### 이론
+#### 📖 이론
 * [Exclusive lock과 Shared lock의 차이 - JEONG_AMATEUR 님](https://jeong-pro.tistory.com/94)
 * [낙관적 락(Optimistic Lock)과 비관적 락(Pessimistic Lock) - 사바라다님](https://sabarada.tistory.com/175#google_vignette)
 * [CAP 이론 소개 - 데이터베이스 초보자용 by N.Damgom님](https://onduway.tistory.com/106)
