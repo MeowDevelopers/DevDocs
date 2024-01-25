@@ -16,15 +16,15 @@
 
 ### 목차(Table of Contents)  
 
-- [스프링](#스프링)
-- [MSA](#MSA)
-- [데이터베이스](#데이터베이스)
+- [Spring](#spring)
+- [MSA](#msa)
+- [Database](#database)
 - [생각 키우기](#생각-키우기-)
-- [성장과 발전을 위한 글](#성장과-발전을-위한-글)
+- [안 읽어도 큰일나진 않지만, 추천하고픈 글](#안-읽어도-큰일나진-않지만-추천하고픈-글)
 
 <br>   
 
-### 스프링
+### Spring
 #### 동영상  
 * [Presenting TDD - Mockist - 백명석님](https://www.youtube.com/watch?v=ly-TmUuIXyw)
 * [[우아한테크세미나] 200123 우아한모노리스 by 박용권님](https://www.youtube.com/watch?v=SrQeIz3gXZg)
@@ -48,7 +48,7 @@
 
 <br>  
 
-### 데이터베이스
+### Database
 #### 동영상  
 * [DBCP (DB connection pool)의 개념 - 쉬운코드님 ](https://www.youtube.com/watch?v=zowzVqx3MQ4&t=877s)  
 * [stored procedure를 백엔드 실무에서 쓰기에 조심스러운 이유 - 쉬운코드님](https://www.youtube.com/watch?v=SOLm-GXFzG8)
@@ -82,5 +82,5 @@
 
 <br>    
 
-### 성장과 발전을 위한 글  
+### 안 읽어도 큰일나진 않지만 추천하고픈 글    
 * [스타트업 나쁜 개발 리더 종특 - YJ Min 민윤정님](https://brunch.co.kr/@yj5wqu/27)
