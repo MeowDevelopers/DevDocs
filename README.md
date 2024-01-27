@@ -37,6 +37,7 @@
 * [nGrinder + Springboot 부하 테스트 튜토리얼 - zzangmin code님](https://leezzangmin.tistory.com/42)
 * [그라파나(Grafana)란? - 44bits님](https://www.44bits.io/ko/keyword/grafana)
 * [프로메테우스와 그라파나로 개발 서버 모니터링하기 - essem님](https://essem-dev.medium.com/%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-8942aea724b3)
+* [Spring Guide - Exception 전략](https://cheese10yun.github.io/spring-guide-exception/)
 
 <br>   
 
@@ -65,20 +66,101 @@
 ### 생각 키우기 🌱
 공부하거나 개발하면서 궁금했던 점에 대해 `Why?`하는 생각하는 습관 키워요.  
 
-1. Oauth발급시 왜 인가토큰이 먼저나오고 엑세스 토큰을. 또 받아야하는걸까?  
-2. 아래와 같이 Java에서 객체 비교를 위해 equals 메소드를 사용하는 경우, 
+<details>
+<summary> Oauth발급시 왜 인가토큰이 먼저나오고 엑세스 토큰을. 또 받아야하는걸까? </summary>  
   
-    * tokenType.equals(TokenType.AccessToken)  
-    * TokenType.AccessToken.equals(tokenType)
-      
-    왜 tokenType.equals(TokenType.AccessToken) 대신 TokenType.AccessToken.equals(tokenType)와 같이 메소드 호출 순서를 역으로 수정해야하는 이유는 무엇일까요 ?
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
 
-3. 왜 Set은 List나 Map으로 자유롭게 변환이 되는걸까?
-4. 트랜잭션내에 롤백이 발생할만한 상황을 무엇이 있을까?
-5. 데이터의 양이 늘어나면 어떻게 처리할것인가?
-6. 대규모 시스템에서는 파티셔닝과 샤딩 중에 어떤 방식이 유리할까요?
-7. 파티셔닝은 쿼리 성능은 향상시킬 수 있지만, 테이블 간 조인 비용이 높아질 수 있는데, 어떠한 상황에서 샤딩을 선택하는 것이 좋을까요 ?
-8. 대규모 데이터베이스 최적화 측면에서 파티셔닝과 샤딩의 우선순위는 무엇일까요?
+</div>
+</details>
+
+<details>
+<summary> Java에서 객체 비교를 위해 equals 메소드를 사용하는 경우, tokenType.equals(TokenType.AccessToken), TokenType.AccessToken.equals(tokenType) 두 메소드 호출 순서를 역으로 수정해야하는 이유는 무엇일까요 ? </summary>  
+  
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>  
+
+<details>
+<summary> 왜 Set은 List나 Map으로 자유롭게 변환이 되는걸까요? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>
+
+<details>
+<summary> 트랜잭션내에 롤백이 발생할만한 상황을 무엇이 있을까요? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>  
+
+<details>
+<summary> 데이터의 양이 늘어나면 어떻게 처리할것인가? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>
+
+<details>
+<summary> 대규모 시스템에서는 파티셔닝과 샤딩 중에 어떤 방식이 유리할까요? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>
+
+<details>
+<summary> 파티셔닝은 쿼리 성능은 향상시킬 수 있지만, 테이블 간 조인 비용이 높아질 수 있는데, 어떠한 상황에서 샤딩을 선택하는 것이 좋을까요 ? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>  
+
+<details>
+<summary> 대규모 데이터베이스 최적화 측면에서 파티셔닝과 샤딩의 우선순위는 무엇일까요? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>
 
 <br>    
 
