@@ -20,7 +20,7 @@
 - [MSA](#msa)
 - [Database](#database)
 - [생각 키우기](#생각-키우기-)
-- [안 읽어도 큰일나진 않지만, 추천하고픈 글](#안-읽어도-큰일나진-않지만-추천하고픈-글)
+- [추천하고픈 글](#추천하고픈-글)
 
 <br>   
 
@@ -38,6 +38,10 @@
 * [그라파나(Grafana)란? - 44bits님](https://www.44bits.io/ko/keyword/grafana)
 * [프로메테우스와 그라파나로 개발 서버 모니터링하기 - essem님](https://essem-dev.medium.com/%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-8942aea724b3)
 * [Spring Guide - Exception 전략](https://cheese10yun.github.io/spring-guide-exception/)
+* [스프링에서의 필터 개념 및 예제](https://gardeny.tistory.com/m/35)
+* [Spring Boot를 이용한 Database Authentication](https://velog.io/@code12/Spring-Security-Spring-Boot%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Database-Authentication)
+* [@GeneratedValue(strategy = GenerationType.IDENTITY) 기본키 조회](https://openobjectnet.github.io/jpa/jpa-generationtype/)
+* [우아한 형제들의 Querydsl 사용법](https://velog.io/@youngerjesus/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%98%95%EC%A0%9C%EB%93%A4%EC%9D%98-Querydsl-%ED%99%9C%EC%9A%A9%EB%B2%95)
 
 <br>   
 
@@ -63,6 +67,14 @@
 
 <br>  
 
+### 추천하고픈 글    
+* [스타트업 나쁜 개발 리더 종특 - YJ Min 민윤정님](https://brunch.co.kr/@yj5wqu/27)
+* [GitHub Actions로 개선하는 코드 리뷰 문화 - 토스](https://toss.tech/article/25431)
+* [오늘의집 A/B 실험 플랫폼 구축기](https://www.bucketplace.com/post/2021-10-29-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-a-b-%EC%8B%A4%ED%97%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0/)
+* [null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
+
+<br>
+
 ### 생각 키우기 🌱
 공부하거나 개발하면서 궁금했던 점에 대해 `Why?`하는 생각하는 습관 키워요.  
 
@@ -77,18 +89,6 @@
 
 </div>
 </details>
-
-<details>
-<summary> Java에서 객체 비교를 위해 equals 메소드를 사용하는 경우, tokenType.equals(TokenType.AccessToken), TokenType.AccessToken.equals(tokenType) 두 메소드 호출 순서를 역으로 수정해야하는 이유는 무엇일까요 ? </summary>  
-  
-  ####  
-  
-<div style="text-align:center">
-  
-    여기에 답변을 추가해주세요
-
-</div>
-</details>  
 
 <details>
 <summary> 왜 Set은 List나 Map으로 자유롭게 변환이 되는걸까요? </summary>
@@ -162,7 +162,15 @@
 </div>
 </details>
 
-<br>    
+<details>
+<summary> NULL return은 왜 나쁠까요? 개인이 경험한 관점으로 이야기해볼까요? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
 
-### 안 읽어도 큰일나진 않지만 추천하고픈 글    
-* [스타트업 나쁜 개발 리더 종특 - YJ Min 민윤정님](https://brunch.co.kr/@yj5wqu/27)
+</div>
+</details>
+
