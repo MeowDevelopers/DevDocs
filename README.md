@@ -42,6 +42,9 @@
 * [Spring Boot를 이용한 Database Authentication](https://velog.io/@code12/Spring-Security-Spring-Boot%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Database-Authentication)
 * [@GeneratedValue(strategy = GenerationType.IDENTITY) 기본키 조회](https://openobjectnet.github.io/jpa/jpa-generationtype/)
 * [우아한 형제들의 Querydsl 사용법](https://velog.io/@youngerjesus/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%98%95%EC%A0%9C%EB%93%A4%EC%9D%98-Querydsl-%ED%99%9C%EC%9A%A9%EB%B2%95)
+* [뭐? RestTemplate이 Deprecate 된다고?](https://velog.io/@doxxx93/is-resttemplate-deprecated)
+* [[Spring] Maintenance Mode란?](https://effortguy.tistory.com/214)
+* [Java&Web [Logging] slf4j, log4j, logback, log4j2](https://minkwon4.tistory.com/161)
 
 <br>   
 
@@ -64,6 +67,9 @@
 * [CAP 이론 소개 - 데이터베이스 초보자용 by N.Damgom님](https://onduway.tistory.com/106)
 * [CAP 이론과 PACELC 이론을 알아보자](http://happinessoncode.com/2017/07/29/cap-theorem-and-pacelc-theorem/)
 * [MySQL 바이너리 로그(binlog)에 대한 이해 - Jins' Dev Inside님](https://jins-dev.tistory.com/entry/MySQL-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC-%EB%A1%9C%EA%B7%B8binlog%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
+* [Hibernate Performance Tuning](https://kwonnam.pe.kr/wiki/java/hibernate/performance)
+* [[자료구조] 간단히 알아보는 B-Tree, B+Tree, B*Tree [코딩하는 경제학도] Copyright © SsocoIT](https://ssocoit.tistory.com/217)
+* [[mysql] 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
 
 <br>  
 
@@ -72,6 +78,8 @@
 * [GitHub Actions로 개선하는 코드 리뷰 문화 - 토스](https://toss.tech/article/25431)
 * [오늘의집 A/B 실험 플랫폼 구축기](https://www.bucketplace.com/post/2021-10-29-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-a-b-%EC%8B%A4%ED%97%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0/)
 * [null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
+* [함께 자라기, 함께 잘하기](https://medium.com/ssgtech/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-%ED%95%A8%EA%BB%98-%EC%9E%98%ED%95%98%EA%B8%B0-4137745d36b2)
+* [개발자여, 테스트 커버리지에 집착 말자](https://yozm.wishket.com/magazine/detail/2471/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 
 <br>
 
