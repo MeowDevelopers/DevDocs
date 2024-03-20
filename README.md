@@ -302,14 +302,15 @@
 </div>
 </details>
 
+<details>
 <summary> @transactional에 private이 먹히지 않는 이유는 무엇일까요? </summary>
-    
-  ####  
   
-<div style="text-align:center">
-  
-    여기에 답변을 추가해주세요
+####  
 
-</div>
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
 </details>
 
