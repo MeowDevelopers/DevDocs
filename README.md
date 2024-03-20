@@ -53,6 +53,10 @@
 * [행복을 찾기 위한 우리의 여정 1부, by 쿠팡](https://www.theteams.kr/teams/8226/post/73234)
 * [행복을 찾기 위한 우리의 여정 2부, by 쿠팡](https://www.theteams.kr/teams/8226/post/73235)
 * [DevOps LGTM 스택 도입기](https://medium.com/finda-tech/lgtm-%EC%8A%A4%ED%83%9D-%EB%8F%84%EC%9E%85%EA%B8%B0-aeb1424b8299)
+* [BFF Pattern vs Gateway Pattern](https://alirezafarokhi.medium.com/bff-pattern-vs-gateway-pattern-45706ffb9978)
+* [MSA 환경에서 네트워크 예외를 잘 다루는 방법](https://tech.kakaopay.com/post/msa-transaction/)
+* [KSUG 2019 하반기 세미나 - 잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다 (박용권)](https://youtu.be/uTSuVFyv81w?si=OX8vDvq-J1sMt38u)
+* [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까?](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
 
 <br>  
 
@@ -80,6 +84,8 @@
 * [null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
 * [함께 자라기, 함께 잘하기](https://medium.com/ssgtech/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-%ED%95%A8%EA%BB%98-%EC%9E%98%ED%95%98%EA%B8%B0-4137745d36b2)
 * [개발자여, 테스트 커버리지에 집착 말자](https://yozm.wishket.com/magazine/detail/2471/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+* [절대적 Rule을 지켜 – Config Checker 개발기](https://techblog.woowahan.com/7242/)
+* [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530/)
 
 <br>
 
