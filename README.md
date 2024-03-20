@@ -238,6 +238,7 @@
 </details>
 
 <details>
+  
 <summary> JPA  Entity가 기본생성자를 가져야하는 이유는 무엇일까요? </summary>
     
   ####  
@@ -250,6 +251,7 @@
 </details>
 
 <details>
+  
 <summary> OneToMany , ManyToOne으로 엮인 2개 엔티티의 객체를 jackson이나 gson으로 json 직렬화를 했을때 에러가 터지는데 이에 대해서 아는만큼 알려주세요 </summary>
     
   ####  
@@ -262,6 +264,7 @@
 </details>
 
 <details>
+  
 <summary> Bean 생성시 기본적으로 싱글톤으로 생성되는데 이때 싱글톤에 private int count=0; 과 같은 변수가 있고 이걸 조작 가능한경우 무슨일이 벌어질까요? </summary>
     
   ####  
@@ -274,6 +277,7 @@
 </details>
 
 <details>
+  
 <summary> 라우터가 하는일을 아는만큼만 알려주세요 </summary>
     
   ####  
@@ -286,6 +290,7 @@
 </details>
 
 <details>
+  
 <summary> GC(Garbage Collection)가 무엇인지, 필요한 이유는 무엇인지, 동작방식에 대해 설명해주세요 ~ </summary>
     
   ####  
@@ -296,3 +301,15 @@
 
 </div>
 </details>
+
+<summary> @transactional에 private이 먹히지 않는 이유는 무엇일까요? </summary>
+    
+  ####  
+  
+<div style="text-align:center">
+  
+    여기에 답변을 추가해주세요
+
+</div>
+</details>
+
