@@ -312,5 +312,90 @@
       여기에 답변을 추가해주세요
   
   </div>
+</details>  
+
+<details>
+<summary> SOLID(객체지향 5대 원칙)에 대해서 설명해주세요. </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
 </details>
 
+<details>
+<summary> 트랜잭션 격리 수준(Transactional Isolation Level)에 대해 설명하고, 각각이 해결하려는 문제는 무엇인가요? </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
+</details>
+
+
+<details>
+<summary> 컨텍스트 스위칭(Context Switching)이란 무엇이며, 이 과정에서 발생하는 오버헤드는 어떻게 관리할 수 있나요? </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
+</details>
+
+<details>
+<summary> NoSQL 데이터베이스의 주요 유형에는 어떤 것들이 있으며, 각각의 특징을 설명해주세요. (예: 문서형, 키-값, 그래프, 컬럼형 데이터베이스) </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
+</details>
+
+<details>
+<summary> NoSQL을 사용해야 하는 경우는 언제인가요? 관계형 데이터베이스 대신 NoSQL을 선택할 때 고려해야 할 요소는 무엇인가요? </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
+</details>
+
+
+<details>
+<summary>Undo Log와 Redo Log의 차이점을 설명하세요. 그리고 각각의 로그가 트랜잭션 처리에서 어떻게 사용되는지 설명해주세요. </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
+</details>
+
+<details>
+<summary>MySQL InnoDB에서 Redo Log는 언제 기록되며, 어떻게 데이터를 복구하는 데 사용되나요? </summary>
+  
+####  
+
+  <div style="text-align:center">
+  
+      여기에 답변을 추가해주세요
+  
+  </div>
+</details>
