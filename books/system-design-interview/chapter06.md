@@ -1,6 +1,5 @@
-# 6장 키-값 저장소 설계
+# 6장 키-값 저장소 설계  
 
----
 
 Key-Vaule Store는 비 관계형(Non-Relational) Database이다.  
 * Cassandar
@@ -12,7 +11,8 @@ Key-Vaule Store는 비 관계형(Non-Relational) Database이다.
 ### Non Relational Database 특징    
 * Key-Value / Graph / Document / Column 지향형의 형태를 가지고 있다.   
 * Key-Value 쌍에서의 키는 유일해야 하며, 해당 키에 매달린 값은 키를 통해서만 접근할 수 있다. 
-* 키는 일반 텍스트 일수도 있고 해시 값일 수도 있다. 
+* 키는 일반 텍스트 일수도 있고 해시 값일 수도 있다.   
+
     ```
     - 일반 텍스트 키 : "last_logged_in_at"  
     - 해쉬 키 : 235DDEC4
@@ -56,8 +56,6 @@ CAP 정리는 데이터 일관성(consistency), 가용성(acailability), 파티�
 <br>
 
 ![CAP](/books/system-design-interview/images/cap.png)
-
-<center>CAP 정리</center>  
 
 <br>  
 
@@ -138,7 +136,6 @@ SNS(Instargram, Twitter)에서 주로 AP시스템을 사용할 수 있다. 팔�
 
 ![consistent-hashing](/books/system-design-interview/images/consistent-hashing.png)  
 
-<center>안정 해시(Consistent Hashing)</center>  
 
 안정 해시는 서버 IP나 서버 이름을 해시 함수의 출력값으로 가지고, 원처럼 순환하는 값의 범위를 만드는 것을 말한다. 
 
